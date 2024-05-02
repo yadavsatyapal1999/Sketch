@@ -1,0 +1,50 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  #test {
+    border: 2px solid black;
+  }
+  
+  #red {
+    accent-color: red;
+  }
+  
+  #green {
+    accent-color: green;
+  }
+  
+  #black {
+    accent-color: black;
+  }
+  
+  #color {
+    width: 680px;
+    height: 40px;
+    color: white;
+    background-color: #3f31aa;
+    padding: 5px;
+    display: flex;
+    place-content: space-between;
+  }
+  
+  label {
+    font-size: 20px;
+    margin: 10px 8px;
+  }
+  
+  #color span {
+    margin: 10px 0px;
+  }
+  #erase {
+    width: 680px;
+    height: 40px;
+    color: white;
+    background-color: black;
+    padding: 5px;
+    display: flex;
+    place-content: center;
+  }
+
+  
